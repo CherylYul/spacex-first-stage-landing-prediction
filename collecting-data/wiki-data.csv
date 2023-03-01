@@ -1,0 +1,212 @@
+,FlightNo.,Dateandtime(UTC),VersionBooster,Launchsite,Payload,Payloadmass,Orbit,Customer,Launchoutcome,Boosterlanding
+0,1,4 June 2010,F9 v1.0B0003[3],"CCSFS,SLC-40",Dragon Spacecraft Qualification Unit,N,LEO,SpaceX,Success,Failure[5]
+1,2,8 December 2010,F9 v1.0B0004[3],"CCSFS,SLC-40",SpaceX COTS Demo Flight 1,U,LEO(ISS),NASA(COTS)various others,Success,Failure[10]
+2,3,22 May 2012,F9 v1.0B0005[3],"CCSFS,SLC-40",SpaceX COTS Demo Flight 2,525 kg,LEO(ISS),NASA(COTS),Success,No attempt
+3,4,8 October 2012,F9 v1.0B0006[3],"CCSFS,SLC-40",SpaceX CRS-1,"4,700 kg",LEO(ISS),NASA(CRS),Success,No attempt
+4,5,1 March 2013,F9 v1.0B0007[3],"CCSFS,SLC-40",SpaceX CRS-2,"4,877 kg",LEO(ISS),NASA(CRS),Success,No attempt
+5,6,29 September 2013,F9 v1.1B1003[3],"VSFB,SLC-4E",CASSIOPE,500 kg,Polar orbitLEO,MDA,Success,Uncontrolled
+6,7,3 December 2013,F9 v1.1B1004,"CCSFS,SLC-40",SES-8,"3,170 kg",GTO,SES,Success,No attempt
+7,8,6 January 2014,F9 v1.1,"CCSFS,SLC-40",Thaicom 6,"3,325 kg",GTO,Thaicom,Success,No attempt
+8,9,18 April 2014,F9 v1.1,"CCSFS,SLC-40",SpaceX CRS-3,"2,296 kg",LEO(ISS),NASA(CRS),Success,Controlled[42]
+9,10,14 July 2014,F9 v1.1,"CCSFS,SLC-40",Orbcomm-OG2,"1,316 kg",LEO,Orbcomm,Success,Controlled[42]
+10,11,5 August 2014,F9 v1.1,"CCSFS,SLC-40",AsiaSat 8,"4,535 kg",GTO,AsiaSat,Success,No attempt
+11,12,7 September 2014,F9 v1.1B1011,"CCSFS,SLC-40",AsiaSat 6,"4,428 kg",GTO,AsiaSat,Success,No attempt
+12,13,21 September 2014,F9 v1.1B1010,"CCSFS,SLC-40",SpaceX CRS-4,"2,216 kg",LEO(ISS),NASA(CRS),Success,Uncontrolled[60]
+13,14,10 January 2015,F9 v1.1B1012,"CCSFS,SLC-40",SpaceX CRS-5,"2,395 kg",LEO(ISS),NASA(CRS),Success,Failure
+14,15,11 February 2015,F9 v1.1B1013,"CCSFS,SLC-40",DSCOVR,570 kg,Sun–Earth L1insertion,USAFNASANOAA,Success,Controlled
+15,16,2 March 2015,F9 v1.1B1014,"CCSFS,SLC-40",ABS-3A,"4,159 kg",GTO,ABSEutelsat,Success,No attempt
+16,17,14 April 2015,F9 v1.1B1015,"CCSFS,SLC-40",SpaceX CRS-6,"1,898 kg",LEO(ISS),NASA(CRS),Success,Failure
+17,18,27 April 2015,F9 v1.1B1016,"CCSFS,SLC-40",TürkmenÄlem 52°E / MonacoSAT,"4,707 kg",GTO,Turkmenistan NationalSpace Agency,Success,No attempt
+18,19,28 June 2015,F9 v1.1B1018,"CCSFS,SLC-40",SpaceX CRS-7,"1,952 kg",LEO(ISS),NASA(CRS),Failure(in flight),Precluded
+19,20,22 December 2015,F9 FTB1019,"CCSFS,SLC-40",Orbcomm-OG2,"2,034 kg",LEO,Orbcomm,Success,Success
+20,21,17 January 2016,F9 v1.1B1017,"VSFB,SLC-4E",Jason-3,553 kg,LEO,NASA(LSP)NOAACNES,Success,Failure
+21,22,4 March 2016,F9 FTB1020,"CCSFS,SLC-40",SES-9,"5,271 kg",GTO,SES,Success,Failure
+22,23,8 April 2016,F9 FTB1021.1,"CCSFS,SLC-40",SpaceX CRS-8,"3,136 kg",LEO(ISS),NASA(CRS),Success,Success
+23,24,6 May 2016,F9 FTB1022,"CCSFS,SLC-40",SKY Perfect JSAT,"4,696 kg",GTO,SKY Perfect JSAT Group,Success,Success
+24,25,27 May 2016,F9 FTB1023.1,"CCSFS,SLC-40",Thaicom 8,"3,100 kg",GTO,Thaicom,Success,Success
+25,26,15 June 2016,F9 FTB1024,"CCSFS,SLC-40",ABS (satellite operator),"3,600 kg",GTO,ABSEutelsat,Success,Failure
+26,27,18 July 2016,F9 FTB1025.1,"CCSFS,SLC-40",SpaceX CRS-9,"2,257 kg",LEO(ISS),NASA(CRS),Success,Success
+27,28,14 August 2016,F9 FTB1026,"CCSFS,SLC-40",JCSAT-16,"4,600 kg",GTO,SKY Perfect JSAT Group,Success,Success
+28,29,14 January 2017,F9 FTB1029.1,"VSFB,SLC-4E",Iridium NEXT,"9,600 kg",PolarLEO,Iridium Communications,Success,Success
+29,30,19 February 2017,F9 FTB1031.1,"KSC,LC-39A",SpaceX CRS-10,"2,490 kg",LEO(ISS),NASA(CRS),Success,Success
+30,31,16 March 2017,F9 FTB1030,"KSC,LC-39A",EchoStar 23,"5,600 kg",GTO,EchoStar,Success,No attempt
+31,32,30 March 2017,F9 FT♺B1021.2,"KSC,LC-39A",SES-10,"5,300 kg",GTO,SES,Success,Success
+32,33,1 May 2017,F9 FTB1032.1,"KSC,LC-39A",List of NRO launches,C,LEO[172],NRO,Success,Success
+33,34,15 May 2017,F9 FTB1034.1,"KSC,LC-39A",Inmarsat,"6,070 kg",GTO,Inmarsat,Success,No attempt
+34,35,3 June 2017,F9 FTB1035.1,"KSC,LC-39A",SpaceX CRS-11,"2,708 kg",LEO(ISS),NASA(CRS),Success,Success
+35,36,23 June 2017,F9 FT♺B1029.2,"KSC,LC-39A",BulgariaSat-1,"3,669 kg",GTO,Bulsatcom,Success,Success
+36,37,25 June 2017,F9 FTB1036.1,"VSFB,SLC-4E",Iridium NEXT,"9,600 kg",LEO,Iridium Communications,Success,Success
+37,38,5 July 2017,F9 FTB1037.1,"KSC,LC-39A",Intelsat 35e,"6,761 kg",GTO,Intelsat,Success,No attempt
+38,39,14 August 2017,F9 B4B1039.1,"KSC,LC-39A",SpaceX CRS-12,"3,310 kg",LEO(ISS),NASA(CRS),Success,Success
+39,40,24 August 2017,F9 FTB1038.1,"VSFB,SLC-4E",Formosat-5,475 kg,SSO,NSPO,Success,Success
+40,41,7 September 2017,F9 B4B1040.1,"KSC,LC-39A",Boeing X-37,"4,990 kg",LEO,USAF,Success,Success
+41,42,9 October 2017,F9 B4B1041.1,"VSFB,SLC-4E",Iridium NEXT,"9,600 kg",PolarLEO,Iridium Communications,Success,Success
+42,43,11 October 2017,F9 FT♺B1031.2,"KSC,LC-39A",List of SES satellites,"5,400 kg",GTO,SES S.A.EchoStar,Success,Success
+43,44,30 October 2017,F9 B4B1042.1,"KSC,LC-39A",Koreasat 5A,"3,500 kg",GTO,KT Corporation,Success,Success
+44,45,15 December 2017,F9 FT♺B1035.2,"CCSFS,SLC-40",SpaceX CRS-13,"2,205 kg",LEO(ISS),NASA(CRS),Success,Success
+45,46,23 December 2017,F9 FT♺B1036.2,"VSFB,SLC-4E",Iridium NEXT,"9,600 kg",PolarLEO,Iridium Communications,Success,Controlled[229]
+46,47,8 January 2018,F9 B4B1043.1,"CCSFS,SLC-40",Zuma (satellite),C,LEO,Northrop Grumman,Success,Success
+47,48,31 January 2018,F9 FT♺B1032.2,"CCSFS,SLC-40",SES-16,"4,230 kg",GTO,SES,Success,Controlled[244]
+48,FH 1,6 February 2018,Falcon HeavyB1033.1(core),"KSC,LC-39A",Elon Musk's Tesla Roadster,"~1,250 kg",Heliocentric0.99–1.67 AU[251](close toMars transfer orbit),SpaceX,Success,Failure
+49,49,22 February 2018,F9 FT♺B1038.2,"VSFB,SLC-4E",Paz (satellite),"2,150 kg",SSO,HisdesatexactEarthSpaceX,Success,No attempt
+50,50,6 March 2018,F9 B4B1044.1,"CCSFS,SLC-40",Hispasat 30W-6,"6,092 kg",GTO,HispasatNovaWurks,Success,No attempt
+51,51,30 March 2018,F9 B4♺B1041.2,"VSFB,SLC-4E",Iridium NEXT,"9,600 kg",PolarLEO,Iridium Communications,Success,No attempt
+52,52,2 April 2018,F9 B4♺B1039.2,"CCSFS,SLC-40",SpaceX CRS-14,"2,647 kg",LEO(ISS),NASA(CRS),Success,No attempt
+53,53,18 April 2018,F9 B4B1045.1,"CCSFS,SLC-40",Transiting Exoplanet Survey Satellite,362 kg,HEOforP/2 orbit,NASA(LSP),Success,Success
+54,54,11 May 2018,F9 B5B1046.1[263],"KSC,LC-39A",Bangabandhu-1,"3,600 kg",GTO,Thales-Alenia/BTRC,Success,Success
+55,55,22 May 2018,F9 B4♺B1043.2,"VSFB,SLC-4E",Iridium NEXT,"6,460 kg",PolarLEO,Iridium CommunicationsGFZ•NASA,Success,No attempt
+56,56,4 June 2018,F9 B4♺B1040.2,"CCSFS,SLC-40",SES-12,"5,384 kg",GTO,SES,Success,No attempt
+57,57,29 June 2018,F9 B4♺B1045.2,"CCSFS,SLC-40",SpaceX CRS-15,"2,697 kg",LEO(ISS),NASA(CRS),Success,No attempt
+58,58,22 July 2018,F9 B5B1047.1,"CCSFS,SLC-40",Telstar 19V,"7,075 kg",GTO[338],Telesat,Success,Success
+59,59,25 July 2018,F9 B5B1048.1[345],"VSFB,SLC-4E",Iridium NEXT,"9,600 kg",PolarLEO,Iridium Communications,Success,Success
+60,60,7 August 2018,F9 B5♺B1046.2,"CCSFS,SLC-40",Merah Putih (satellite),"5,800 kg",GTO,Telkom Indonesia,Success,Success
+61,61,10 September 2018,F9 B5B1049.1,"CCSFS,SLC-40",Telstar 18V,"7,060 kg",GTO[356],Telesat,Success,Success
+62,62,8 October 2018,F9 B5♺B1048.2,"VSFB,SLC-4E",SAOCOM 1A,"3,000 kg",SSO,CONAE,Success,Success
+63,63,15 November 2018,F9 B5♺B1047.2,"KSC,LC-39A",Es'hail 2,"5,300 kg",GTO,Es'hailSat,Success,Success
+64,64,3 December 2018,F9 B5♺B1046.3(SHERPA),"VSFB,SLC-4E",SSO-A,"~4,000 kg",SSO,Spaceflight Industries,Success,Success
+65,65,5 December 2018,F9 B5B1050,"CCSFS,SLC-40",SpaceX CRS-16,"2,500 kg",LEO(ISS),NASA(CRS),Success,Failure
+66,66,23 December 2018,F9 B5B1054,"CCSFS,SLC-40",GPS Block III,"4,400 kg",MEO,USAF,Success,No attempt
+67,67,11 January 2019,F9 B5♺B1049.2,"VSFB,SLC-4E",Iridium NEXT,"9,600 kg",PolarLEO,Iridium Communications,Success,Success
+68,68,22 February 2019,F9 B5♺B1048.3,"CCSFS,SLC-40",Nusantara Satu,"4,850 kg",GTO,PSNSpaceIL/IAIAir Force Research,Success,Success
+69,69,2 March 2019,F9 B5B1051.1[408],"KSC,LC-39A",Crew Dragon Demo-1,"12,055 kg",LEO(ISS),NASA(CCD),Success,Success
+70,FH 2,11 April 2019,Falcon Heavy B5B1055 (core),"KSC,LC-39A",Arabsat-6A,"6,465 kg",GTO,Arabsat,Success,Success
+71,70,4 May 2019,F9 B5B1056.1,"CCSFS,SLC-40",SpaceX CRS-17,"2,495 kg",LEO(ISS),NASA(CRS),Success,Success
+72,71,24 May 2019,F9 B5♺B1049.3,"CCSFS,SLC-40",Starlink,"13,620 kg",LEO,SpaceX,Success,Success
+73,72,12 June 2019,F9 B5♺B1051.2,"VSFB,SLC-4E",RADARSAT Constellation,"4,200 kg",SSO,Canadian Space Agency(CSA),Success,Success
+74,FH 3,25 June 2019,Falcon Heavy B5B1057 (core),"KSC,LC-39A",Space Test Program,"3,700 kg",LEO/MEO,USAF,Success,Failure
+75,73,25 July 2019,F9 B5♺B1056.2,"CCSFS,SLC-40",SpaceX CRS-18,"2,268 kg",LEO(ISS),NASA(CRS),Success,Success
+76,74,6 August 2019,F9 B5♺B1047.3,"CCSFS,SLC-40",AMOS-17,"6,500 kg",GTO,Spacecom,Success,No attempt
+77,75,11 November 2019,F9 B5♺B1048.4,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+78,76,5 December 2019,F9 B5B1059.1,"CCSFS,SLC-40",SpaceX CRS-19,"2,617 kg",LEO(ISS),NASA(CRS),Success,Success
+79,77,17 December 2019,F9 B5♺B1056.3,"CCSFS,SLC-40",JSAT (satellite constellation),"6,956 kg",GTO,Sky Perfect JSATKacific 1,Success,Success
+80,78,7 January 2020,F9 B5♺B1049.4,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+81,79,19 January 2020,F9 B5♺B1046.4,"KSC,LC-39A",Dragon flight abort,"12,050 kg",Sub-orbital[18],NASA(CTS),Success,No attempt
+82,80,29 January 2020,F9 B5♺B1051.3,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+83,81,17 February 2020,F9 B5♺B1056.4,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Failure
+84,82,7 March 2020,F9 B5♺B1059.2,"CCSFS,SLC-40",SpaceX CRS-20,"1,977 kg",LEO(ISS),NASA(CRS),Success,Success
+85,83,18 March 2020,F9 B5♺B1048.5,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Failure
+86,84,22 April 2020,F9 B5♺B1051.4,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+87,85,30 May 2020,F9 B5B1058.1,"KSC,LC-39A",Crew Dragon Demo-2,"12,530 kg",LEO(ISS),NASA(CCDev),Success,Success
+88,86,4 June 2020,F9 B5♺B1049.5,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+89,87,13 June 2020,F9 B5♺B1059.3,"CCSFS,SLC-40",Starlink,"15,410 kg",LEO,SpaceXPlanet Labs,Success,Success
+90,88,30 June 2020,F9 B5B1060.1,"CCSFS,SLC-40",GPS Block III,"4,311 kg",MEO,U.S. Space Force,Success,Success
+91,89,20 July 2020,F9 B5♺B1058.2,"CCSFS,SLC-40",ANASIS-II,"5,000–6,000 kg",GTO,Republic of Korea Army,Success,Success
+92,90,7 August 2020,F9 B5♺B1051.5,"KSC,LC-39A",Starlink,"14,932 kg",LEO,SpaceXSpaceflight Industries(BlackSky),Success,Success
+93,91,18 August 2020,F9 B5♺B1049.6,"CCSFS,SLC-40",Starlink,"~15,440 kg",LEO,SpaceXPlanet Labs,Success,Success
+94,92,30 August 2020,F9 B5♺B1059.4,"CCSFS,SLC-40",SAOCOM 1B,"3,130 kg",SSO,CONAEPlanetIQTyvak,Success,Success
+95,93,3 September 2020,F9 B5♺B1060.2,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+96,94,6 October 2020,F9 B5♺B1058.3,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+97,95,18 October 2020,F9 B5♺B1051.6,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+98,96,24 October 2020,F9 B5♺B1060.3,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+99,97,5 November 2020,F9 B5B1062.1,"CCSFS,SLC-40",GPS Block III,"4,311 kg",MEO,USSF,Success,Success
+100,98,16 November 2020,F9 B5B1061.1,"KSC,LC-39A",SpaceX Crew-1,"~12,500 kg",LEO(ISS),NASA(CCP),Success,Success
+101,99,21 November 2020,F9 B5B1063.1,"VSFB,SLC-4E",Copernicus Sentinel-6,"1,192 kg",LEO,NASA/NOAA/ESA/EUMETSAT,Success,Success
+102,100,25 November 2020,F9 B5♺B1049.7,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+103,101,6 December 2020,F9 B5♺B1058.4,"KSC,LC-39A",SpaceX CRS-21,"2,972 kg",LEO(ISS),NASA(CRS),Success,Success
+104,102,13 December 2020,F9 B5♺B1051.7,"CCSFS,SLC-40[121]",Sirius XM,"7,000 kg",GTO,Sirius XM,Success,Success
+105,103,19 December 2020,F9 B5♺B1059.5,"KSC,LC-39A",List of NRO launches,C,LEO,NRO,Success,Success
+106,104,8 January 2021,F9 B5♺B1060.4,"CCSFS,SLC-40",Türksat 5A,"3,500 kg",GTO,Türksat,Success,Success
+107,105,20 January 2021,F9 B5♺B1051.8,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+108,106,24 January 2021,F9 B5♺B1058.5,"CCSFS,SLC-40",List of spaceflight launches in January–June 2021,"~5,000 kg",SSO,Various,Success,Success
+109,107,4 February 2021,F9 B5♺B1060.5,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+110,108,16 February 2021,F9 B5♺B1059.6,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Failure
+111,109,4 March 2021,F9 B5♺B1049.8,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+112,110,11 March 2021,F9 B5♺B1058.6,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+113,111,14 March 2021,F9 B5♺B1051.9,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+114,112,24 March 2021,F9 B5♺B1060.6,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+115,113,7 April 2021,F9 B5♺B1058.7,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+116,114,23 April 2021,F9 B5♺B1061.2,"KSC,LC-39A",SpaceX Crew-2,"~13,000 kg",LEO(ISS),NASA(CTS),Success,Success
+117,115,29 April 2021,F9 B5♺B1060.7,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+118,116,4 May 2021,F9 B5♺B1049.9,"KSC,LC-39A",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+119,117,9 May 2021,F9 B5♺B1051.10,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+120,118,15 May 2021,F9 B5♺B1058.8,"KSC,LC-39A",Starlink,"~14,000 kg",LEO,SpaceXCapella SpaceandTyvak,Success,Success
+121,119,26 May 2021,F9 B5♺B1063.2,"CCSFS,SLC-40",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+122,120,3 June 2021,F9 B5B1067.1,"KSC,LC-39A",SpaceX CRS-22,"3,328 kg",LEO(ISS),NASA(CRS),Success,Success
+123,121,6 June 2021,F9 B5♺B1061.3,"CCSFS,SLC-40",Sirius XM,"7,000 kg",GTO,Sirius XM,Success,Success
+124,122,17 June 2021,F9 B5♺B1062.2,"CCSFS,SLC-40",GPS Block III,"4,331 kg",MEO,USSF,Success,Success
+125,123,30 June 2021,F9 B5♺B1060.8,"CCSFS,SLC-40",List of spaceflight launches in January–June 2021,U,SSO,Various,Success,Success
+126,124,29 August 2021,F9 B5♺B1061.4,"KSC,LC-39A",SpaceX CRS-23,"~2,200 kg",LEO(ISS),NASA(CRS),Success,Success
+127,125,14 September 2021,F9 B5♺B1049.10,"VSFB,SLC-4E",Starlink,"~13,260 kg",LEO,SpaceX,Success,Success
+128,126,16 September 2021,F9 B5♺B1062.3,"KSC,LC-39A",Inspiration4,"~12,519 kg",LEO,Jared Isaacman[225][226],Success,Success
+129,127,11 November 2021,F9 B5♺B1067.2,"KSC,LC-39A",SpaceX Crew-3,"~13,000 kg",LEO(ISS),NASA(CTS),Success,Success
+130,128,13 November 2021,F9 B5♺B1058.9,"CCSFS,SLC-40",Starlink,"~15,635 kg",LEO,SpaceX,Success,Success
+131,129,24 November 2021,F9 B5♺B1063.3,"VSFB,SLC-4E",Double Asteroid Redirection Test,624 kg,Heliocentric,NASA(LSP),Success,Success
+132,130,2 December 2021,F9 B5♺B1060.9,"CCSFS,SLC-40",Starlink,"~14,500 kg",LEO,"SpaceXSpaceflight, Inc.(BlackSky Global)",Success,Success
+133,131,9 December 2021,F9 B5♺B1061.5,"KSC,LC-39A",Imaging X-ray Polarimetry Explorer,325 kg,LEO,NASA(LSP),Success,Success
+134,132,18 December 2021,F9 B5♺B1051.11,"VSFB,SLC-4E",Starlink,"15,600 kg",LEO,SpaceX,Success,Success
+135,133,19 December 2021,F9 B5♺B1067.3,"CCSFS,SLC-40",Türksat 5B,"4,500 kg",GTO,Türksat,Success,Success
+136,134,21 December 2021,F9 B5B1069.1,"KSC,LC-39A",SpaceX CRS-24,"2,989 kg",LEO(ISS),NASA(CRS),Success,Success
+137,135,6 January 2022,F9 B5♺B1062.4,"KSC,LC-39A",Starlink,"~14,500 kg",LEO,SpaceX,Success,Success
+138,136,13 January 2022,F9 B5♺B1058.10,"CCSFS,SLC-40",List of spaceflight launches in January–June 2022,U,SSO,Various,Success,Success
+139,137,19 January 2022,F9 B5♺B1060.10,"KSC,LC-39A",Starlink,"~14,500 kg",LEO,SpaceX,Success,Success
+140,138,31 January 2022,F9 B5♺B1052.3,"CCSFS,SLC-40",COSMO-SkyMed,"2,205 kg",SSO,ASI,Success,Success
+141,139,2 February 2022,F9 B5B1071.1,"VSFB,SLC-4E",List of NRO launches,C,SSO,NRO,Success,Success
+142,140,3 February 2022,F9 B5♺B1061.6,"KSC,LC-39A",Starlink,"~14,500 kg",LEO,SpaceX,Success,Success
+143,141,21 February 2022,F9 B5♺B1058.11,"CCSFS,SLC-40",Starlink,"~13,600 kg",LEO,SpaceX,Success,Success
+144,142,25 February 2022,F9 B5♺B1063.4,"VSFB,SLC-4E",Starlink,"~14,750 kg",LEO,SpaceX,Success,Success
+145,143,3 March 2022,F9 B5♺B1060.11,"KSC,LC-39A",Starlink,"~13,900 kg",LEO,SpaceX,Success,Success
+146,144,9 March 2022,F9 B5♺B1052.4,"CCSFS,SLC-40",Starlink,"~14,160 kg",LEO,SpaceX,Success,Success
+147,145,19 March 2022,F9 B5♺B1051.12,"CCSFS,SLC-40",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+148,146,1 April 2022,F9 B5♺B1061.7,"CCSFS,SLC-40",List of spaceflight launches in January–June 2022,U,SSO,Various,Success,Success
+149,147,8 April 2022,F9 B5♺B1062.5,"KSC,LC-39A",Axiom Mission 1,"~13,000 kg",LEO(ISS),Axiom Space,Success,Success
+150,148,17 April 2022,F9 B5♺B1071.2,"VSFB,SLC-4E",List of NRO launches,C,LEO,NRO,Success,Success
+151,149,21 April 2022,F9 B5♺B1060.12,"CCSFS,SLC-40",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+152,150,27 April 2022,F9 B5♺B1067.4,"KSC,LC-39A",SpaceX Crew-4,"~13,000 kg",LEO(ISS),NASA(CTS),Success,Success
+153,151,29 April 2022,F9 B5♺B1062.6,"CCSFS,SLC-40",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+154,152,6 May 2022,F9 B5♺B1058.12,"KSC,LC-39A",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+155,153,13 May 2022,F9 B5♺B1063.5,"VSFB,SLC-4E",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+156,154,14 May 2022,F9 B5B1073.1,"CCSFS,SLC-40",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+157,155,18 May 2022,F9 B5♺B1052.5,"KSC,LC-39A",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+158,156,25 May 2022,F9 B5♺B1061.8,"CCSFS,SLC-40",List of spaceflight launches in January–June 2022,U,SSO,Various,Success,Success
+159,157,8 June 2022,F9 B5♺B1062.7,"CCSFS,SLC-40",Nilesat-301,"~4,100 kg",GTO,Nilesat,Success,Success
+160,158,17 June 2022,F9 B5♺B1060.13,"KSC,LC-39A",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+161,159,18 June 2022,F9 B5♺B1071.3,"VSFB,SLC-4E",SAR-Lupe,"~4,000 kg",SSO,German Intelligence Service,Success,Success
+162,160,19 June 2022,F9 B5♺B1061.9,"CCSFS,SLC-40",Globalstar,~700 kg,LEO,GlobalstarUnknown US Government Agency,Success,Success
+163,161,29 June 2022,F9 B5♺B1073.2,"CCSFS,SLC-40",List of SES satellites,"~3,500 kg",GTO,SES,Success,Success
+164,162,7 July 2022,F9 B5♺B1058.13,"CCSFS,SLC-40",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+165,163,11 July 2022,F9 B5♺B1063.6,"VSFB,SLC-4E",Starlink,"~14,100 kg",SSO,SpaceX,Success,Success
+166,164,15 July 2022,F9 B5♺B1067.5,"KSC,LC-39A",SpaceX CRS-25,"2,668 kg",LEO(ISS),NASA(CRS),Success,Success
+167,165,17 July 2022,F9 B5♺B1051.13,"CCSFS,SLC-40",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+168,166,22 July 2022,F9 B5♺B1071.4,"VSFB,SLC-4E",Starlink,"~14,100 kg",SSO,SpaceX,Success,Success
+169,167,24 July 2022,F9 B5♺B1062.8,"KSC,LC-39A",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+170,168,4 August 2022,F9 B5♺B1052.6,"CCSFS,SLC-40",Danuri,~679 kg,Ballistic lunar transfer (BLT),KARI,Success,Success
+171,169,10 August 2022,F9 B5♺B1073.3,"KSC,LC-39A",Starlink,"~16,000 kg",LEO,SpaceX,Success,Success
+172,170,12 August 2022,F9 B5♺B1061.10,"VSFB,SLC-4E",Starlink,"~14,100 kg",SSO,SpaceX,Success,Success
+173,171,19 August 2022,F9 B5♺B1062.9,"CCSFS,SLC-40",Starlink,"~16,250 kg",LEO,SpaceX,Success,Success
+174,172,28 August 2022,F9 B5♺B1069.2,"CCSFS,SLC-40",Starlink,"~16,700 kg",LEO,SpaceX,Success,Success
+175,173,31 August 2022,F9 B5♺B1063.7,"VSFB,SLC-4E",Starlink,"~14,200 kg",SSO,SpaceX,Success,Success
+176,174,5 September 2022,F9 B5♺B1052.7,"CCSFS,SLC-40",Starlink,"~16,000 kg",LEO,SpaceXSpaceflight Industries,Success,Success
+177,175,11 September 2022,F9 B5♺B1058.14,"KSC,LC-39A",Starlink,"~11,938 kg",LEO,SpaceXAST SpaceMobile,Success,Success
+178,176,19 September 2022,F9 B5♺B1067.6,"CCSFS,SLC-40",Starlink,"~16,700 kg",LEO,SpaceX,Success,Success
+179,177,24 September 2022,F9 B5♺B1073.4,"CCSFS,SLC-40",Starlink,"~16,100 kg",LEO,SpaceX,Success,Success
+180,178,5 October 2022,F9 B5B1077.1,"KSC,LC-39A",SpaceX Crew-5,"~13,000 kg",LEO(ISS),NASA(CTS),Success,Success
+181,179,5 October 2022,F9 B5♺B1071.5,"VSFB,SLC-4E",Starlink,"~16,100 kg",LEO,SpaceX,Success,Success
+182,180,8 October 2022,F9 B5♺B1060.14,"CCSFS,SLC-40",List of Intelsat satellites,"7,350 kg",GTO[398],Intelsat,Success,Success
+183,181,15 October 2022,F9 B5♺B1069.3,"CCSFS,SLC-40",Hotbird 13F,"~4,501 kg",GTO,Eutelsat,Success,Success
+184,182,20 October 2022,F9 B5♺B1062.10,"CCSFS,SLC-40",Starlink,"~16,700 kg",LEO,SpaceX,Success,Success
+185,183,28 October 2022,F9 B5♺B1063.8,"VSFB,SLC-4E",Starlink,"~16,400 kg",LEO,SpaceX,Success,Success
+186,FH 4,1 November 2022,Falcon Heavy B5B1066 (core),"KSC,LC-39A",United States Space Force,"~3,750 kg",GEO,"USSF,Millennium Space SystemsandLockheed Martin Space",Success,No attempt
+187,184,3 November 2022,F9 B5♺B1067.7,"CCSFS,SLC-40",Hotbird 13G,"~4,500 kg",GTO,Eutelsat,Success,Success
+188,185,12 November 2022,F9 B5♺B1051.14,"CCSFS,SLC-40",List of Intelsat satellites,"~6,600 kg",GTO,Intelsat,Success,No attempt
+189,186,23 November 2022,F9 B5♺B1049.11,"CCSFS,SLC-40",Eutelsat,"5,500 kg",GTO,Eutelsat,Success,No attempt
+190,187,26 November 2022,F9 B5B1076.1,"KSC,LC-39A",SpaceX CRS-26,"3,528 kg",LEO(ISS),NASA(CRS),Success,Success
+191,188,8 December 2022,F9 B5♺B1069.4,"KSC,LC-39A",OneWeb satellite constellation,"6,000 kg",PolarLEO,OneWeb,Success,Success
+192,189,11 December 2022,F9 B5♺B1073.5,"CCSFS,SLC-40",Hakuto-R,"~1,000 kg",Ballistic lunar transfer (BLT),ispaceMBRSCJAXANASA,Success,Success
+193,190,16 December 2022,F9 B5♺B1071.6,"VSFB,SLC-4E",Surface Water and Ocean Topography,"~2,200 kg",LEO,NASA/CNES,Success,Success
+194,191,16 December 2022,F9 B5♺B1067.8,"CCSFS,SLC-40",O3b mPOWER,"~4,100 kg",MEO,SES,Success,Success
+195,192,17 December 2022,F9 B5♺B1058.15,"KSC,LC-39A",Starlink,"~16,700 kg",LEO,SpaceX,Success,Success
+196,193,28 December 2022,F9 B5♺B1062.11,"CCSFS,SLC-40",Starlink,"~16,700 kg",LEO,SpaceX,Success,Success
+197,194,30 December 2022,F9 B5♺B1061.11,"VSFB,SLC-4E",EROS (satellite),~400 kg,RetrogradeLEO,ImageSat International,Success,Success
+198,195,3 January 2023,F9 B5♺B1060.15,"CCSFS,SLC-40",List of spaceflight launches in January–June 2023,U,SSO,Various,Success,Success
+199,196,10 January 2023,F9 B5♺B1076.2,"CCSFS,SLC-40",OneWeb satellite constellation,"6,000 kg",PolarLEO,OneWeb,Success,Success
+200,FH 5,15 January 2023,Falcon Heavy B5B1070 (core),"KSC,LC-39A",List of spaceflight launches in January–June 2023,"~3,750 kg",GEO,USSF,Success,No attempt
+201,197,18 January 2023,F9 B5♺B1077.2,"CCSFS,SLC-40",GPS Block III,"4,352 kg",MEO,USSF,Success,Success
+202,198,19 January 2023,F9 B5B1075.1,"VSFB,SLC-4E",Starlink,"15,800 kg",LEO,SpaceX,Success,Success
+203,199,26 January 2023,F9 B5♺B1067.9,"CCSFS,SLC-40",Starlink,">17,400 kg",LEO,SpaceX,Success,Success
+204,200,31 January 2023,F9 B5♺B1071.7,"VSFB,SLC-4E",Starlink,">15,200 kg",LEO,SpaceXD-Orbit,Success,Success
+205,201,2 February 2023,F9 B5♺B1069.5,"KSC,LC-39A",Starlink,"16,500 kg",LEO,SpaceX,Success,Success
+206,202,7 February 2023,F9 B5♺B1073.6,"CCSFS,SLC-40",Hispasat,"4,146 kg",GTO,Hispasat,Success,Success
+207,203,12 February 202305:10[479],F9 B5♺B1062.12,"CCSFS,SLC-40",Starlink,"17,100 kg",LEO,SpaceX,Success,Success
+208,204,17 February 2023,F9 B5♺B1063.9,"VSFB,SLC-4E",Starlink,"15,900 kg",LEO,SpaceX,Success,Success
+209,205,18 February 2023,F9 B5♺B1077.3,"CCSFS,SLC-40[486]",Inmarsat,"5,470 kg",GTO,Inmarsat,Success,Success
+210,206,27 February 2023,F9 B5♺B1076.3,"CCSFS,SLC-40",Starlink,"~16,900 kg",LEO,SpaceX,Success,Success
