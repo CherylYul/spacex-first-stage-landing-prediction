@@ -55,14 +55,6 @@ def get_mass(cell):
     return new_mass
 
 
-def get_landing(cell):
-    if cell.sup:
-        cell.sup.extract()
-    if cell.small:
-        cell.small.extract()
-    return cell.get_text(strip=True)
-
-
 for url in [url_1, url_2]:
     r = requests.get(url)
     html_soup = BeautifulSoup(r.text, "html.parser")
@@ -83,7 +75,7 @@ for url in [url_1, url_2]:
             launch_dict["Orbit"].append(cells[5].get_text(strip=True))
             launch_dict["Customer"].append(get_rid_of_sup(cells[6]))
             launch_dict["Launchoutcome"].append(get_rid_of_sup(cells[7]))
-            launch_dict["Boosterlanding"].append(get_landing(cells[8]))
+            launch_dict["Boosterlanding"].append(get_rid_of_sup(cells[8]))
 
 df = pd.DataFrame(launch_dict)
 df.to_csv("collecting-data/wiki-data.csv")
