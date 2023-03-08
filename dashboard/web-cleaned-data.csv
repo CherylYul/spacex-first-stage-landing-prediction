@@ -1,0 +1,209 @@
+FlightNo.,Dateandtime(UTC),Launchsite,Payloadmass,Orbit,Customer,Launchoutcome,Boosterlanding,BoosterVersion,Serial
+1,2010-06-04,CCSFS SLC-40,8933.290816326531,LEO,SpaceX,Success,Failure(parachute),F9 v1.0,B0003
+2,2010-12-08,CCSFS SLC-40,8933.290816326531,LEO,NASA(COTS),Success,Failure(parachute),F9 v1.0,B0004
+3,2012-05-22,CCSFS SLC-40,525.0,LEO,NASA(COTS),Success,No attempt,F9 v1.0,B0005
+4,2012-10-08,CCSFS SLC-40,4700.0,LEO,NASA(CRS),Success,No attempt,F9 v1.0,B0006
+5,2013-03-01,CCSFS SLC-40,4877.0,LEO,NASA(CRS),Success,No attempt,F9 v1.0,B0007
+6,2013-09-29,VSFB SLC-4E,500.0,PO,MDA,Success,Uncontrolled(ocean),F9 v1.1,B1003
+7,2013-12-03,CCSFS SLC-40,3170.0,GTO,SES,Success,No attempt,F9 v1.1,B1004
+8,2014-01-06,CCSFS SLC-40,3325.0,GTO,Thaicom,Success,No attempt,F9 v1.1,B0000
+9,2014-04-18,CCSFS SLC-40,2296.0,LEO,NASA(CRS),Success,Controlled(ocean),F9 v1.1,B0000
+10,2014-07-14,CCSFS SLC-40,1316.0,LEO,Orbcomm,Success,Controlled(ocean),F9 v1.1,B0000
+11,2014-08-05,CCSFS SLC-40,4535.0,GTO,AsiaSat,Success,No attempt,F9 v1.1,B0000
+12,2014-09-07,CCSFS SLC-40,4428.0,GTO,AsiaSat,Success,No attempt,F9 v1.1,B1011
+13,2014-09-21,CCSFS SLC-40,2216.0,LEO,NASA(CRS),Success,Uncontrolled(ocean),F9 v1.1,B1010
+14,2015-01-10,CCSFS SLC-40,2395.0,LEO,NASA(CRS),Success,Failure(drone ship),F9 v1.1,B1012
+15,2015-02-11,CCSFS SLC-40,570.0,ES-L1,USAF/NASA/NOAA,Success,Controlled(ocean),F9 v1.1,B1013
+16,2015-03-02,CCSFS SLC-40,4159.0,GTO,ABS/Eutelsat,Success,No attempt,F9 v1.1,B1014
+17,2015-04-14,CCSFS SLC-40,1898.0,LEO,NASA(CRS),Success,Failure(drone ship),F9 v1.1,B1015
+18,2015-04-27,CCSFS SLC-40,4707.0,GTO,Turkmenistan NationalSpace Agency,Success,No attempt,F9 v1.1,B1016
+19,2015-06-28,CCSFS SLC-40,1952.0,LEO,NASA(CRS),Failure,Precluded(drone ship),F9 v1.1,B1018
+20,2015-12-22,CCSFS SLC-40,2034.0,LEO,Orbcomm,Success,Success(ground pad),F9 FT,B1019
+21,2016-01-17,VSFB SLC-4E,553.0,LEO,NASA/NOAA/CNES,Success,Failure(drone ship),F9 v1.1,B1017
+22,2016-03-04,CCSFS SLC-40,5271.0,GTO,SES,Success,Failure(drone ship),F9 FT,B1020
+23,2016-04-08,CCSFS SLC-40,3136.0,LEO,NASA(CRS),Success,Success(drone ship),F9 FT,B1021
+24,2016-05-06,CCSFS SLC-40,4696.0,GTO,SKY Perfect JSAT Group,Success,Success(drone ship),F9 FT,B1022
+25,2016-05-27,CCSFS SLC-40,3100.0,GTO,Thaicom,Success,Success(drone ship),F9 FT,B1023
+26,2016-06-15,CCSFS SLC-40,3600.0,GTO,ABS/Eutelsat,Success,Failure(drone ship),F9 FT,B1024
+27,2016-07-18,CCSFS SLC-40,2257.0,LEO,NASA(CRS),Success,Success(ground pad),F9 FT,B1025
+28,2016-08-14,CCSFS SLC-40,4600.0,GTO,SKY Perfect JSAT Group,Success,Success(drone ship),F9 FT,B1026
+29,2017-01-14,VSFB SLC-4E,9600.0,PO,Iridium Communications,Success,Success(drone ship),F9 FT,B1029
+30,2017-02-19,KSC LC-39A,2490.0,LEO,NASA(CRS),Success,Success(ground pad),F9 FT,B1031
+31,2017-03-16,KSC LC-39A,5600.0,GTO,EchoStar,Success,No attempt,F9 FT,B1030
+32,2017-03-30,KSC LC-39A,5300.0,GTO,SES,Success,Success(drone ship),F9 FT,B1021
+33,2017-05-01,KSC LC-39A,8933.290816326531,LEO,NRO,Success,Success(ground pad),F9 FT,B1032
+34,2017-05-15,KSC LC-39A,6070.0,GTO,Inmarsat,Success,No attempt,F9 FT,B1034
+35,2017-06-03,KSC LC-39A,2708.0,LEO,NASA(CRS),Success,Success(ground pad),F9 FT,B1035
+36,2017-06-23,KSC LC-39A,3669.0,GTO,Bulsatcom,Success,Success(drone ship),F9 FT,B1029
+37,2017-06-25,VSFB SLC-4E,9600.0,LEO,Iridium Communications,Success,Success(drone ship),F9 FT,B1036
+38,2017-07-05,KSC LC-39A,6761.0,GTO,Intelsat,Success,No attempt,F9 FT,B1037
+39,2017-08-14,KSC LC-39A,3310.0,LEO,NASA(CRS),Success,Success(ground pad),F9 B4,B1039
+40,2017-08-24,VSFB SLC-4E,475.0,SSO,NSPO,Success,Success(drone ship),F9 FT,B1038
+41,2017-09-07,KSC LC-39A,4990.0,LEO,USAF,Success,Success(ground pad),F9 B4,B1040
+42,2017-10-09,VSFB SLC-4E,9600.0,PO,Iridium Communications,Success,Success(drone ship),F9 B4,B1041
+43,2017-10-11,KSC LC-39A,5400.0,GTO,SES/EchoStar,Success,Success(drone ship),F9 FT,B1031
+44,2017-10-30,KSC LC-39A,3500.0,GTO,KT Corporation,Success,Success(drone ship),F9 B4,B1042
+45,2017-12-15,CCSFS SLC-40,2205.0,LEO,NASA(CRS),Success,Success(ground pad),F9 FT,B1035
+46,2017-12-23,VSFB SLC-4E,9600.0,PO,Iridium Communications,Success,Controlled(ocean),F9 FT,B1036
+47,2018-01-08,CCSFS SLC-40,8933.290816326531,LEO,Northrop Grumman,Success,Success(ground pad),F9 B4,B1043
+48,2018-01-31,CCSFS SLC-40,4230.0,GTO,SES,Success,Controlled(ocean),F9 FT,B1032
+49,2018-02-22,VSFB SLC-4E,2150.0,SSO,Hisdesat/exactEarth/SpaceX,Success,No attempt,F9 FT,B1038
+50,2018-03-06,CCSFS SLC-40,6092.0,GTO,Hispasat/NovaWurks,Success,No attempt,F9 B4,B1044
+51,2018-03-30,VSFB SLC-4E,9600.0,PO,Iridium Communications,Success,No attempt,F9 B4,B1041
+52,2018-04-02,CCSFS SLC-40,2647.0,LEO,NASA(CRS),Success,No attempt,F9 B4,B1039
+53,2018-04-18,CCSFS SLC-40,362.0,HEO,NASA(LSP),Success,Success(drone ship),F9 B4,B1045
+54,2018-05-11,KSC LC-39A,3600.0,GTO,Thales-Alenia/BTRC,Success,Success(drone ship),F9 B5,B1046
+55,2018-05-22,VSFB SLC-4E,6460.0,PO,Iridium Communications/GFZ/NASA,Success,No attempt,F9 B4,B1043
+56,2018-06-04,CCSFS SLC-40,5384.0,GTO,SES,Success,No attempt,F9 B4,B1040
+57,2018-06-29,CCSFS SLC-40,2697.0,LEO,NASA(CRS),Success,No attempt,F9 B4,B1045
+58,2018-07-22,CCSFS SLC-40,7075.0,GTO,Telesat,Success,Success(drone ship),F9 B5,B1047
+59,2018-07-25,VSFB SLC-4E,9600.0,PO,Iridium Communications,Success,Success(drone ship),F9 B5,B1048
+60,2018-08-07,CCSFS SLC-40,5800.0,GTO,Telkom Indonesia,Success,Success(drone ship),F9 B5,B1046
+61,2018-09-10,CCSFS SLC-40,7060.0,GTO,Telesat,Success,Success(drone ship),F9 B5,B1049
+62,2018-10-08,VSFB SLC-4E,3000.0,SSO,CONAE,Success,Success(ground pad),F9 B5,B1048
+63,2018-11-15,KSC LC-39A,5300.0,GTO,Es'hailSat,Success,Success(drone ship),F9 B5,B1047
+64,2018-12-03,VSFB SLC-4E,4000.0,SSO,Spaceflight Industries,Success,Success(drone ship),F9 B5,B1046
+65,2018-12-05,CCSFS SLC-40,2500.0,LEO,NASA(CRS),Success,Failure(ground pad),F9 B5,B1050
+66,2018-12-23,CCSFS SLC-40,4400.0,MEO,USAF,Success,No attempt,F9 B5,B1054
+67,2019-01-11,VSFB SLC-4E,9600.0,PO,Iridium Communications,Success,Success(drone ship),F9 B5,B1049
+68,2019-02-22,CCSFS SLC-40,4850.0,GTO,PSN/SpaceIL/IAI/Air Force Research,Success,Success(drone ship),F9 B5,B1048
+69,2019-03-02,KSC LC-39A,12055.0,LEO,NASA(CCD),Success,Success(drone ship),F9 B5,B1051
+70,2019-05-04,CCSFS SLC-40,2495.0,LEO,NASA(CRS),Success,Success(drone ship),F9 B5,B1056
+71,2019-05-24,CCSFS SLC-40,13620.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1049
+72,2019-06-12,VSFB SLC-4E,4200.0,SSO,Canadian Space Agency(CSA),Success,Success(ground pad),F9 B5,B1051
+73,2019-07-25,CCSFS SLC-40,2268.0,LEO,NASA(CRS),Success,Success(ground pad),F9 B5,B1056
+74,2019-08-06,CCSFS SLC-40,6500.0,GTO,Spacecom,Success,No attempt,F9 B5,B1047
+75,2019-11-11,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1048
+76,2019-12-05,CCSFS SLC-40,2617.0,LEO,NASA(CRS),Success,Success(drone ship),F9 B5,B1059
+77,2019-12-17,CCSFS SLC-40,6956.0,GTO,SKY Perfect JSAT Group/Kacific 1,Success,Success(drone ship),F9 B5,B1056
+78,2020-01-07,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1049
+79,2020-01-19,KSC LC-39A,12050.0,Sub-orbital,NASA(CTS),Success,No attempt,F9 B5,B1046
+80,2020-01-29,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+81,2020-02-17,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Failure(drone ship),F9 B5,B1056
+82,2020-03-07,CCSFS SLC-40,1977.0,LEO,NASA(CRS),Success,Success(ground pad),F9 B5,B1059
+83,2020-03-18,KSC LC-39A,15600.0,LEO,SpaceX,Success,Failure(drone ship),F9 B5,B1048
+84,2020-04-22,KSC LC-39A,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+85,2020-05-30,KSC LC-39A,12530.0,LEO,NASA(CCDev),Success,Success(drone ship),F9 B5,B1058
+86,2020-06-04,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1049
+87,2020-06-13,CCSFS SLC-40,15410.0,LEO,SpaceX/Planet Labs,Success,Success(drone ship),F9 B5,B1059
+88,2020-06-30,CCSFS SLC-40,4311.0,MEO,U.S. Space Force,Success,Success(drone ship),F9 B5,B1060
+89,2020-07-20,CCSFS SLC-40,5000.0,GTO,Republic of Korea Army,Success,Success(drone ship),F9 B5,B1058
+90,2020-08-07,KSC LC-39A,14932.0,LEO,SpaceX/Spaceflight,Success,Success(drone ship),F9 B5,B1051
+91,2020-08-18,CCSFS SLC-40,15440.0,LEO,SpaceX/Planet Labs,Success,Success(drone ship),F9 B5,B1049
+92,2020-08-30,CCSFS SLC-40,3130.0,SSO,CONAE/PlanetIQ/Tyvak,Success,Success(ground pad),F9 B5,B1059
+93,2020-09-03,KSC LC-39A,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+94,2020-10-06,KSC LC-39A,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1058
+95,2020-10-18,KSC LC-39A,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+96,2020-10-24,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+97,2020-11-05,CCSFS SLC-40,4311.0,MEO,USSF,Success,Success(drone ship),F9 B5,B1062
+98,2020-11-16,KSC LC-39A,12500.0,LEO,NASA(CCP),Success,Success(drone ship),F9 B5,B1061
+99,2020-11-21,VSFB SLC-4E,1192.0,LEO,NASA/NOAA/ESA/EUMETSAT,Success,Success(ground pad),F9 B5,B1063
+100,2020-11-25,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1049
+101,2020-12-06,KSC LC-39A,2972.0,LEO,NASA(CRS),Success,Success(drone ship),F9 B5,B1058
+102,2020-12-13,CCSFS SLC-40,7000.0,GTO,Sirius XM,Success,Success(drone ship),F9 B5,B1051
+103,2020-12-19,KSC LC-39A,8933.290816326531,LEO,NRO,Success,Success(ground pad),F9 B5,B1059
+104,2021-01-08,CCSFS SLC-40,3500.0,GTO,Türksat,Success,Success(drone ship),F9 B5,B1060
+105,2021-01-20,KSC LC-39A,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+106,2021-01-24,CCSFS SLC-40,5000.0,SSO,Various,Success,Success(drone ship),F9 B5,B1058
+107,2021-02-04,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+108,2021-02-16,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Failure(drone ship),F9 B5,B1059
+109,2021-03-04,KSC LC-39A,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1049
+110,2021-03-11,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1058
+111,2021-03-14,KSC LC-39A,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+112,2021-03-24,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+113,2021-04-07,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1058
+114,2021-04-23,KSC LC-39A,13000.0,LEO,NASA(CTS),Success,Success(drone ship),F9 B5,B1061
+115,2021-04-29,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+116,2021-05-04,KSC LC-39A,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1049
+117,2021-05-09,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+118,2021-05-15,KSC LC-39A,14000.0,LEO,SpaceX/Capella Space/Tyvak,Success,Success(drone ship),F9 B5,B1058
+119,2021-05-26,CCSFS SLC-40,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1063
+120,2021-06-03,KSC LC-39A,3328.0,LEO,NASA(CRS),Success,Success(drone ship),F9 B5,B1067
+121,2021-06-06,CCSFS SLC-40,7000.0,GTO,Sirius XM,Success,Success(drone ship),F9 B5,B1061
+122,2021-06-17,CCSFS SLC-40,4331.0,MEO,USSF,Success,Success(drone ship),F9 B5,B1062
+123,2021-06-30,CCSFS SLC-40,8933.290816326531,SSO,Various,Success,Success(ground pad),F9 B5,B1060
+124,2021-08-29,KSC LC-39A,2200.0,LEO,NASA(CRS),Success,Success(drone ship),F9 B5,B1061
+125,2021-09-14,VSFB SLC-4E,13260.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1049
+126,2021-09-16,KSC LC-39A,12519.0,LEO,Jared Isaacman,Success,Success(drone ship),F9 B5,B1062
+127,2021-11-11,KSC LC-39A,13000.0,LEO,NASA(CTS),Success,Success(drone ship),F9 B5,B1067
+128,2021-11-13,CCSFS SLC-40,15635.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1058
+129,2021-11-24,VSFB SLC-4E,624.0,Heliocentric,NASA(LSP),Success,Success(drone ship),F9 B5,B1063
+130,2021-12-02,CCSFS SLC-40,14500.0,LEO,SpaceX/Spaceflight,Success,Success(drone ship),F9 B5,B1060
+131,2021-12-09,KSC LC-39A,325.0,LEO,NASA(LSP),Success,Success(drone ship),F9 B5,B1061
+132,2021-12-18,VSFB SLC-4E,15600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+133,2021-12-19,CCSFS SLC-40,4500.0,GTO,Türksat,Success,Success(drone ship),F9 B5,B1067
+134,2021-12-21,KSC LC-39A,2989.0,LEO,NASA(CRS),Success,Success(drone ship),F9 B5,B1069
+135,2022-01-06,KSC LC-39A,14500.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1062
+136,2022-01-13,CCSFS SLC-40,8933.290816326531,SSO,Various,Success,Success(ground pad),F9 B5,B1058
+137,2022-01-19,KSC LC-39A,14500.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+138,2022-01-31,CCSFS SLC-40,2205.0,SSO,ASI,Success,Success(ground pad),F9 B5,B1052
+139,2022-02-02,VSFB SLC-4E,8933.290816326531,SSO,NRO,Success,Success(ground pad),F9 B5,B1071
+140,2022-02-03,KSC LC-39A,14500.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1061
+141,2022-02-21,CCSFS SLC-40,13600.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1058
+142,2022-02-25,VSFB SLC-4E,14750.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1063
+143,2022-03-03,KSC LC-39A,13900.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+144,2022-03-09,CCSFS SLC-40,14160.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1052
+145,2022-03-19,CCSFS SLC-40,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+146,2022-04-01,CCSFS SLC-40,8933.290816326531,SSO,Various,Success,Success(drone ship),F9 B5,B1061
+147,2022-04-08,KSC LC-39A,13000.0,LEO,Axiom Space,Success,Success(drone ship),F9 B5,B1062
+148,2022-04-17,VSFB SLC-4E,8933.290816326531,LEO,NRO,Success,Success(ground pad),F9 B5,B1071
+149,2022-04-21,CCSFS SLC-40,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+150,2022-04-27,KSC LC-39A,13000.0,LEO,NASA(CTS),Success,Success(drone ship),F9 B5,B1067
+151,2022-04-29,CCSFS SLC-40,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1062
+152,2022-05-06,KSC LC-39A,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1058
+153,2022-05-13,VSFB SLC-4E,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1063
+154,2022-05-14,CCSFS SLC-40,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1073
+155,2022-05-18,KSC LC-39A,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1052
+156,2022-05-25,CCSFS SLC-40,8933.290816326531,SSO,Various,Success,Success(ground pad),F9 B5,B1061
+157,2022-06-08,CCSFS SLC-40,4100.0,GTO,Nilesat,Success,Success(drone ship),F9 B5,B1062
+158,2022-06-17,KSC LC-39A,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1060
+159,2022-06-18,VSFB SLC-4E,4000.0,SSO,German Intelligence Service,Success,Success(ground pad),F9 B5,B1071
+160,2022-06-19,CCSFS SLC-40,700.0,LEO,Globalstar/US Government Agency,Success,Success(drone ship),F9 B5,B1061
+161,2022-06-29,CCSFS SLC-40,3500.0,GTO,SES,Success,Success(drone ship),F9 B5,B1073
+162,2022-07-07,CCSFS SLC-40,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1058
+163,2022-07-11,VSFB SLC-4E,14100.0,SSO,SpaceX,Success,Success(drone ship),F9 B5,B1063
+164,2022-07-15,KSC LC-39A,2668.0,LEO,NASA(CRS),Success,Success(drone ship),F9 B5,B1067
+165,2022-07-17,CCSFS SLC-40,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1051
+166,2022-07-22,VSFB SLC-4E,14100.0,SSO,SpaceX,Success,Success(drone ship),F9 B5,B1071
+167,2022-07-24,KSC LC-39A,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1062
+168,2022-08-04,CCSFS SLC-40,679.0,BLT,KARI,Success,Success(drone ship),F9 B5,B1052
+169,2022-08-10,KSC LC-39A,16000.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1073
+170,2022-08-12,VSFB SLC-4E,14100.0,SSO,SpaceX,Success,Success(drone ship),F9 B5,B1061
+171,2022-08-19,CCSFS SLC-40,16250.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1062
+172,2022-08-28,CCSFS SLC-40,16700.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1069
+173,2022-08-31,VSFB SLC-4E,14200.0,SSO,SpaceX,Success,Success(drone ship),F9 B5,B1063
+174,2022-09-05,CCSFS SLC-40,16000.0,LEO,SpaceX/Spaceflight,Success,Success(drone ship),F9 B5,B1052
+175,2022-09-11,KSC LC-39A,11938.0,LEO,SpaceX/AST SpaceMobile,Success,Success(drone ship),F9 B5,B1058
+176,2022-09-19,CCSFS SLC-40,16700.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1067
+177,2022-09-24,CCSFS SLC-40,16100.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1073
+178,2022-10-05,KSC LC-39A,13000.0,LEO,NASA(CTS),Success,Success(drone ship),F9 B5,B1077
+179,2022-10-05,VSFB SLC-4E,16100.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1071
+180,2022-10-08,CCSFS SLC-40,7350.0,GTO,Intelsat,Success,Success(drone ship),F9 B5,B1060
+181,2022-10-15,CCSFS SLC-40,4501.0,GTO,Eutelsat,Success,Success(drone ship),F9 B5,B1069
+182,2022-10-20,CCSFS SLC-40,16700.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1062
+183,2022-10-28,VSFB SLC-4E,16400.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1063
+184,2022-11-03,CCSFS SLC-40,4500.0,GTO,Eutelsat,Success,Success(drone ship),F9 B5,B1067
+185,2022-11-12,CCSFS SLC-40,6600.0,GTO,Intelsat,Success,No attempt,F9 B5,B1051
+186,2022-11-23,CCSFS SLC-40,5500.0,GTO,Eutelsat,Success,No attempt,F9 B5,B1049
+187,2022-11-26,KSC LC-39A,3528.0,LEO,NASA(CRS),Success,Success(drone ship),F9 B5,B1076
+188,2022-12-08,KSC LC-39A,6000.0,PO,OneWeb,Success,Success(ground pad),F9 B5,B1069
+189,2022-12-11,CCSFS SLC-40,1000.0,BLT,ispace/MBRSC/JAXA/NASA,Success,Success(ground pad),F9 B5,B1073
+190,2022-12-16,VSFB SLC-4E,2200.0,LEO,NASA/CNES,Success,Success(ground pad),F9 B5,B1071
+191,2022-12-16,CCSFS SLC-40,4100.0,MEO,SES,Success,Success(drone ship),F9 B5,B1067
+192,2022-12-17,KSC LC-39A,16700.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1058
+193,2022-12-28,CCSFS SLC-40,16700.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1062
+194,2022-12-30,VSFB SLC-4E,400.0,LEO,ImageSat International,Success,Success(ground pad),F9 B5,B1061
+195,2023-01-03,CCSFS SLC-40,8933.290816326531,SSO,Various,Success,Success(ground pad),F9 B5,B1060
+196,2023-01-10,CCSFS SLC-40,6000.0,PO,OneWeb,Success,Success(ground pad),F9 B5,B1076
+197,2023-01-18,CCSFS SLC-40,4352.0,MEO,USSF,Success,Success(drone ship),F9 B5,B1077
+198,2023-01-19,VSFB SLC-4E,15800.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1075
+199,2023-01-26,CCSFS SLC-40,17400.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1067
+200,2023-01-31,VSFB SLC-4E,15200.0,LEO,SpaceX/D-Orbit,Success,Success(drone ship),F9 B5,B1071
+201,2023-02-02,KSC LC-39A,16500.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1069
+202,2023-02-07,CCSFS SLC-40,4146.0,GTO,Hispasat,Success,Success(drone ship),F9 B5,B1073
+203,2023-02-12,CCSFS SLC-40,17100.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1062
+204,2023-02-17,VSFB SLC-4E,15900.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1063
+205,2023-02-18,CCSFS SLC-40,5470.0,GTO,Inmarsat,Success,Success(drone ship),F9 B5,B1077
+206,2023-02-27,CCSFS SLC-40,16900.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1076
+207,2023-03-02,KSC LC-39A,13000.0,LEO,NASA(CTS),Success,Success(drone ship),F9 B5,B1078
+208,2023-03-03,VSFB SLC-4E,15900.0,LEO,SpaceX,Success,Success(drone ship),F9 B5,B1061
