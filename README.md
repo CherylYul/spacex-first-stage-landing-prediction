@@ -1,0 +1,5 @@
+<h1>SPACEX FIRST STAGE LANDING PREDICTION</h1>
+
+This is the capstone project from IBM Data Science Professional Certification:
+
+SpaceX offers competitive pricing for its Falcon 9, only 67 million $ compared to its other providers (more than 150 million dollars each). This advantage price can be obtained by reusing the first stage. Therefore, this projects aim to predict the success rate landing of the first stage base on payload mass, orbit, serial, grid fins, legs, blocks, landing pad (the data is scraping on wikipedia and SpaceX API latest launch). We can apply the predicted results and explored data for future rocket launch projects as an instruction or who want to bid against SpaceX. This model were able to predict the first stage rocket booster landing successfully with an accuracy of 91.57%
